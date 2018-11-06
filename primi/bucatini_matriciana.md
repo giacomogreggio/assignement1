@@ -1,0 +1,10 @@
+bucatini:
+bucatini
+pomodori
+guanciale
+pecorino
+peperoncino
+vino
+olio
+sale
+pepe
